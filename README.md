@@ -1,2 +1,2 @@
 # CHATBOX
-This is official git ropository account 
+This is official git repository account.
